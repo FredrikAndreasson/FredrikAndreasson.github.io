@@ -1,2 +1,2 @@
 # FredrikAndreasson.github.io
-# This will be my introductin website.
+# This will be my introduction website.
