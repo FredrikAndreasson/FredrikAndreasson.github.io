@@ -1,0 +1,26 @@
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.obj
+*.exe
+
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore node_modules if you ever use npm
+node_modules/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore OS generated files
+Thumbs.db
